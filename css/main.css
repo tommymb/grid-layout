@@ -35,3 +35,8 @@ figcaption {
 dl {
   padding-left: 2.5em;
 }
+
+h2 {
+  font-size: 1rem;
+  font-weight: normal;
+}
