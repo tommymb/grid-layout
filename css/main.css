@@ -25,3 +25,12 @@ body {
   display: block;
   width: 100%;
 }
+
+figcaption {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.pad {
+  padding: 1em;
+}
