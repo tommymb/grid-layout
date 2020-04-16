@@ -25,13 +25,3 @@ body {
   display: block;
   width: 100%;
 }
-
-figure {
-  margin: 0;
-  padding: 1rem;
-}
-
-figcaption {
-  font-size: 24px;
-  font-weight: bold;
-}
